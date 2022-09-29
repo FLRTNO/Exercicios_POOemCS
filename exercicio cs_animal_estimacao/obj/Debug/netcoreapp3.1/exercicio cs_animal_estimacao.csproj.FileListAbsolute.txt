@@ -1,0 +1,13 @@
+C:\Users\Gabi\Desktop\exercicio cs_animal_estimacao\bin\Debug\netcoreapp3.1\exercicio cs_animal_estimacao.exe
+C:\Users\Gabi\Desktop\exercicio cs_animal_estimacao\bin\Debug\netcoreapp3.1\exercicio cs_animal_estimacao.deps.json
+C:\Users\Gabi\Desktop\exercicio cs_animal_estimacao\bin\Debug\netcoreapp3.1\exercicio cs_animal_estimacao.runtimeconfig.json
+C:\Users\Gabi\Desktop\exercicio cs_animal_estimacao\bin\Debug\netcoreapp3.1\exercicio cs_animal_estimacao.runtimeconfig.dev.json
+C:\Users\Gabi\Desktop\exercicio cs_animal_estimacao\bin\Debug\netcoreapp3.1\exercicio cs_animal_estimacao.dll
+C:\Users\Gabi\Desktop\exercicio cs_animal_estimacao\bin\Debug\netcoreapp3.1\exercicio cs_animal_estimacao.pdb
+C:\Users\Gabi\Desktop\exercicio cs_animal_estimacao\obj\Debug\netcoreapp3.1\exercicio cs_animal_estimacao.csprojAssemblyReference.cache
+C:\Users\Gabi\Desktop\exercicio cs_animal_estimacao\obj\Debug\netcoreapp3.1\exercicio cs_animal_estimacao.AssemblyInfoInputs.cache
+C:\Users\Gabi\Desktop\exercicio cs_animal_estimacao\obj\Debug\netcoreapp3.1\exercicio cs_animal_estimacao.AssemblyInfo.cs
+C:\Users\Gabi\Desktop\exercicio cs_animal_estimacao\obj\Debug\netcoreapp3.1\exercicio cs_animal_estimacao.csproj.CoreCompileInputs.cache
+C:\Users\Gabi\Desktop\exercicio cs_animal_estimacao\obj\Debug\netcoreapp3.1\exercicio cs_animal_estimacao.dll
+C:\Users\Gabi\Desktop\exercicio cs_animal_estimacao\obj\Debug\netcoreapp3.1\exercicio cs_animal_estimacao.pdb
+C:\Users\Gabi\Desktop\exercicio cs_animal_estimacao\obj\Debug\netcoreapp3.1\exercicio cs_animal_estimacao.genruntimeconfig.cache
